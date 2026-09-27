@@ -47,4 +47,4 @@ async def poluição_adolescentes(ctx):
         '> 📱 **Divulgar conscientização:** compartilhar informações e campanhas ambientais.\n'
         '> 🏫 **Participar de projetos:** ajudar em ações ambientais na escola e na comunidade.')
 
-bot.run('')
+bot.run('SEU_TOKEN_AQUI')
